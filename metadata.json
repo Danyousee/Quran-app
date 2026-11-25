@@ -1,0 +1,6 @@
+{
+  "name": "Al-Bayan Quran",
+  "description": "A modern interactive Holy Quran platform for reading, listening to verified recitations, studying English, Hausa, and word-by-word translations with Tafsir, and structured memorisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
